@@ -1,0 +1,68 @@
+body{
+    height: 100vh;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.parallax1{
+    background-image: url(img/152523.jpg);
+    min-height: 500px;
+    min-width: 500px;
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    display: grid;
+    place-items: center;
+}
+.parallax2{
+    background-image: url(img/5007423.jpg);
+    min-height: 500px;
+    min-width: 500px;
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    display: grid;
+    place-items: center;
+}
+.parallax3{
+    background-image: url(img/wp7218793-sasuke-desktop-hd-wallpapers.jpg);
+    min-height: 500px;
+    min-width: 500px;
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    display: grid;
+    place-items: center;
+}
+.parallax4{
+    background-image: url(img/YJ11RGG-madara-uchiha-wallpaper.jpg);
+    min-height: 500px;
+    min-width: 500px;
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    display: grid;
+    place-items: center;
+}
+h1{
+    text-align: center;
+}
+h2{
+    color: rgb(41, 22, 22);
+    width: 200px;
+    border-radius: 50px;
+    text-align: center;
+}
+.obito{
+    color:white
+}
+p{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color:rgb(165, 56, 56);
+}
+center{
+    font-size: 2rem;
+}
